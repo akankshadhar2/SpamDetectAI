@@ -12,3 +12,5 @@ Required Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow, XGBoost)
 # Dataset #
 The dataset used for this project is not included in this repository due to its large size. However, you can obtain a suitable dataset from various public sources or use your own labeled dataset for training and evaluation.
 
+# Results #
+The notebook will generate evaluation metrics (precision, recall, f1 score) for each model on the test dataset. The model with the best performance will be identified.
